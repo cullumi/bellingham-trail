@@ -1,0 +1,18 @@
+game start
+To start off, where would you like to begin your journey?
+Stanwood
+Seatle
+Yelm
+Ah, going for the tiny town of Stanwood are we?  Very... interesting place, that one.
+The Emerald City!  I don't check in with the Seahawks much these days, but I do hope they're getting plenty of home runs!
+Yelm?  That's somewhere near Olympia, right?
+I don't think I've heard of that one.
+standwood start
+seatle start
+yelm start
+
+stanwood start
+
+seatle start
+
+yelm start
