@@ -7,12 +7,12 @@ Ah, going for the tiny town of Stanwood are we?  Very... interesting place, that
 The Emerald City!  I don't check in with the Seahawks much these days, but I do hope they're getting plenty of home runs!
 Yelm?  That's somewhere near Olympia, right?
 I don't think I've heard of that one.
-standwood start
+stanwood start
 seatle start
-yelm start
+game start
 
 stanwood start
 
-seatle start
+seattle start
 
 yelm start
